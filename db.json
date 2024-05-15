@@ -161,5 +161,8 @@
       "reviewerPassword":"RaniNMN@IJRMA"
     }
    
-  ]
+  ],
+  "joinReviewer":[
+    {}
+    }
 }
